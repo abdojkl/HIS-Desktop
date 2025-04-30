@@ -1,0 +1,26 @@
+[
+  {
+    "default": true,
+    "type": "SQL Server",
+    "connection_string": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\HIS.mdf;Integrated Security=True;",
+    "name": "SQL Server Connection"
+  },
+  {
+    "default": false,
+    "type": "MySql",
+    "connection_string": "Server=mysql5026.site4now.net;Database=db_a9cd22_abdojkl;Uid=a9cd22_abdojkl;Pwd=a1234567;SslMode=none;",
+    "name": "MySql Connection"
+  },
+  {
+    "default": false,
+    "type": "MySql",
+    "connection_string": "Server=sql8.freemysqlhosting.net;Database=sql8643174;Uid=sql8643174;Pwd=sKaLbXbDtg;SslMode=none;",
+    "name": "MySql Connection"
+  },
+  {
+    "default": false,
+    "type": "SQL Server",
+    "connection_string": "Database=his2;Server=127.0.0.1;Trusted_Connection=True;",
+    "name": "SQL Server Connection"
+  }
+]
