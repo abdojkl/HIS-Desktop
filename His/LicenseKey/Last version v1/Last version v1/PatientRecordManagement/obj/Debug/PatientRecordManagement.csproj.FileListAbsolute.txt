@@ -1,0 +1,800 @@
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe.config
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\PatientRecordManagement.pdb
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.Licensing.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.Utils.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Google.Protobuf.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\GumroadLicensing.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Jenga.NET.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Kimtoo.BindingProvider.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Kimtoo.DbManager.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\MySql.Data.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Newtonsoft.Json.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Npgsql.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.Common.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.Interfaces.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.Text.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Buffers.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Memory.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Text.Json.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.ValueTuple.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Zstandard.Net.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Google.Protobuf.pdb
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Google.Protobuf.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\MySql.Data.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Newtonsoft.Json.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Npgsql.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.Common.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\ServiceStack.Text.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Buffers.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Memory.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Text.Json.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\System.ValueTuple.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.AssemblyReference.cache
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Frm_Main.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Properties.Resources.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.GenerateResource.cache
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe.licenses
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CoreCompileInputs.cache
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CopyComplete
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.pdb
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Doctor.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Patient.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_User.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Visit.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Login.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Reset.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\repos\PatientRecordManagement\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient_Visits.resources
+D:\repos\PatientRecordManagement\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Dashboard.resources
+D:\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe.config
+D:\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe
+D:\PatientRecordManagement\bin\Debug\PatientRecordManagement.pdb
+D:\PatientRecordManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.Licensing.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.Utils.dll
+D:\PatientRecordManagement\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\PatientRecordManagement\bin\Debug\Google.Protobuf.dll
+D:\PatientRecordManagement\bin\Debug\GumroadLicensing.dll
+D:\PatientRecordManagement\bin\Debug\Jenga.NET.dll
+D:\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\PatientRecordManagement\bin\Debug\Kimtoo.BindingProvider.dll
+D:\PatientRecordManagement\bin\Debug\Kimtoo.DbManager.dll
+D:\PatientRecordManagement\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\PatientRecordManagement\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PatientRecordManagement\bin\Debug\MySql.Data.dll
+D:\PatientRecordManagement\bin\Debug\Newtonsoft.Json.dll
+D:\PatientRecordManagement\bin\Debug\Npgsql.dll
+D:\PatientRecordManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.Common.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.Interfaces.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\PatientRecordManagement\bin\Debug\ServiceStack.Text.dll
+D:\PatientRecordManagement\bin\Debug\System.Buffers.dll
+D:\PatientRecordManagement\bin\Debug\System.Memory.dll
+D:\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\PatientRecordManagement\bin\Debug\System.Text.Json.dll
+D:\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PatientRecordManagement\bin\Debug\System.ValueTuple.dll
+D:\PatientRecordManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\PatientRecordManagement\bin\Debug\Zstandard.Net.dll
+D:\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\PatientRecordManagement\bin\Debug\Google.Protobuf.pdb
+D:\PatientRecordManagement\bin\Debug\Google.Protobuf.xml
+D:\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.xml
+D:\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.xml
+D:\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PatientRecordManagement\bin\Debug\MySql.Data.xml
+D:\PatientRecordManagement\bin\Debug\Newtonsoft.Json.xml
+D:\PatientRecordManagement\bin\Debug\Npgsql.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.Common.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\PatientRecordManagement\bin\Debug\ServiceStack.Text.xml
+D:\PatientRecordManagement\bin\Debug\System.Buffers.xml
+D:\PatientRecordManagement\bin\Debug\System.Memory.xml
+D:\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\PatientRecordManagement\bin\Debug\System.Text.Json.xml
+D:\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PatientRecordManagement\bin\Debug\System.ValueTuple.xml
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.AssemblyReference.cache
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.SuggestedBindingRedirects.cache
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Login.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Reset.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient_Visits.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Frm_Main.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Dashboard.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Doctor.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Patient.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_User.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Visit.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Properties.Resources.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.GenerateResource.cache
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe.licenses
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CoreCompileInputs.cache
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CopyComplete
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.pdb
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Visit.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_User.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Clinic.resources
+D:\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Doctor.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.AssemblyReference.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.SuggestedBindingRedirects.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Login.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Reset.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Clinic.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Doctor.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient_Visits.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_User.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Visit.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Frm_Main.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Dashboard.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Doctor.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Patient.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_User.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Visit.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.Properties.Resources.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.GenerateResource.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe.licenses
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CoreCompileInputs.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe.config
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\PatientRecordManagement.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.Licensing.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.Utils.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Google.Protobuf.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\GumroadLicensing.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Jenga.NET.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Kimtoo.BindingProvider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Kimtoo.DbManager.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\MySql.Data.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Newtonsoft.Json.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Npgsql.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\NugetDemo.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\NugetMaha.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.Common.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.Interfaces.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.Text.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Buffers.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Memory.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Text.Json.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.ValueTuple.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Zstandard.Net.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Google.Protobuf.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Google.Protobuf.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\MySql.Data.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Newtonsoft.Json.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\Npgsql.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.Common.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\ServiceStack.Text.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Buffers.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Memory.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Text.Json.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\bin\Debug\System.ValueTuple.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CopyComplete
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version\PatientRecordManagement\obj\Debug\PatientRecordManagement.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe.config
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\BouncyCastle.Crypto.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Licensing.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Utils.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\GumroadLicensing.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Jenga.NET.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.BindingProvider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.DbManager.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.ThemeFactory.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.ValidationProvider.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\MySql.Data.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Newtonsoft.Json.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Npgsql.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\NugetDemo.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\NugetMaha.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Common.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Interfaces.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Text.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Buffers.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Memory.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Json.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.ValueTuple.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Ubiety.Dns.Core.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Zstandard.Net.dll
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\MySql.Data.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Newtonsoft.Json.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\Npgsql.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Common.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Text.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Buffers.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Memory.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Json.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\bin\Debug\System.ValueTuple.xml
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.AssemblyReference.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.SuggestedBindingRedirects.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Login.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Reset.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Clinic.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Doctor.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient_Visits.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_User.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Visit.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Frm_Main.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Dashboard.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Doctor.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Patient.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_User.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Visit.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Properties.Resources.resources
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.GenerateResource.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe.licenses
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CoreCompileInputs.cache
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CopyComplete
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.pdb
+D:\11\universty\5 Fifth\فصل ثاني\مشروع تخرج\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Visit_Type.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe.config
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.exe
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\PatientRecordManagement.pdb
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Licensing.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Utils.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\GumroadLicensing.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Jenga.NET.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.BindingProvider.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.DbManager.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.ThemeFactory.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Kimtoo.ValidationProvider.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Npgsql.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\NugetDemo.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\NugetMaha.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Common.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Text.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Json.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Zstandard.Net.dll
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\Npgsql.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Common.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Firebird.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\ServiceStack.Text.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Text.Json.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Login.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Auth.Frm_Reset.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Clinic.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Doctor.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_Patient_Visits.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Frm_User.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Visit_Type.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Frm_Main.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Dashboard.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Doctor.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Patient.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_User.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Pages.Page_Visit.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Properties.Resources.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe.licenses
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.csproj.CopyComplete
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.exe
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.pdb
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Birth.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Dialogs.Birth.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.ConsultingA.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.RHS.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Referral.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Consulting.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Child.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Dental.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Auricle.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Chronic.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Skin.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.PNC.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.ANC.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.GeneralX.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.SkinX.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.NAD.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.TypeV.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.FamPlanning.resources
+C:\Users\USER\source\repos\Last version v1\Last version v1\PatientRecordManagement\obj\Debug\PatientRecordManagement.Clinic2.Awarnes.resources

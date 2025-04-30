@@ -1,0 +1,26 @@
+[
+  {
+    "default": false,
+    "type": "SQL Server",
+    "connection_string": "Database=HIS;Trusted_Connection=TRUE;Server=127.0.0.1;",
+    "name": "SQL Server Connection"
+  },
+  {
+    "default": true,
+    "type": "MySql",
+    "connection_string": "Database=HIS;Pwd=;Server=localhost;SslMode=none;Uid=root;",
+    "name": "MySql Connection"
+  },
+  {
+    "default": false,
+    "type": "SQL Server",
+    "connection_string": "",
+    "name": "SQL Server Connection"
+  },
+  {
+    "default": false,
+    "type": "SQL Server",
+    "connection_string": "",
+    "name": "SQL Server Connection"
+  }
+]
